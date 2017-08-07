@@ -4,9 +4,15 @@
     "description": "SAML Service Provider(SP) for Yii2 using simplesamlphp",
     "keywords": ["yii2", "saml","simplesamlphp","yii"],
     "license": "BSD-3-Clause",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/rjimenezhsc/simplesamlphp"
+        }
+    ],
     "require": {
         "yiisoft/yii2": "2.*.*",
-        "simplesamlphp/simplesamlphp": ">=1.14"
+        "simplesamlphp/simplesamlphp": "dev-sql-server"
     },
     "authors": [
         {
