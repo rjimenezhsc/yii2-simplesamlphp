@@ -6,8 +6,8 @@
     "license": "BSD-3-Clause",
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/rjimenezhsc/simplesamlphp"
+            "type": "git",
+            "url": "git://github.com/rjimenezhsc/simplesamlphp.git"
         }
     ],
     "require": {
